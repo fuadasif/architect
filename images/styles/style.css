@@ -44,3 +44,53 @@ font-size: 45px;
 
 
 }
+
+/* -------------------------------complete my nav bar------------------------------------------ */
+
+.brand{
+   margin-top: 205px;
+   margin-left: 529px;
+   margin-right: 529;
+   width: 862px;
+   height: 225px;
+   text-align: center;
+}
+
+.brand-title{
+    font-weight: 700;
+    font-size: 64px;
+    /* line-height: 75px; */
+    text-align: r;
+}
+
+.brand-details{
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;
+}
+
+/* .brand{
+    border-radius: ;
+} */
+
+.button button{
+    background: #FF900E;
+    border-radius: 8px;
+    padding: 21px 24px 2px 21px; ;
+    color: #FFFFFF;
+    border: none;
+    margin-left: 870px;
+    margin-right: 870px;
+
+}
+
+.banner{
+    width: 1440px;
+    height: 700px;
+    border-radius: 8px;
+    margin-top: 55px;
+    margin-left: 240px;
+    margin-right: 240px;
+
+}
+/* ------------------------------------complete banner and nav ------------------------------------- */
