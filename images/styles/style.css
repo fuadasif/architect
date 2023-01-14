@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;}
+/*----------------------------------- nav section---------------------------------------------- */
+
+.nav{
+    width: 1920px;
+height: 1322px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 144, 14, 0.1);
+    
+
+}
+
+.navigation{
+        display: flex;
+        justify-content: space-between;
+   
+    }
+
+.nav-title{
+margin-top: 50px;
+margin-left: 228px;
+font-weight: 700;
+font-size: 45px;
+
+}
+
+.nav-list{
+    list-style-type:none;
+    display: flex;
+    justify-content: space-around;
+    gap: 5px;
+    font-weight: 500;
+    color: #424242;
+    font-size: 18px;
+    margin-top: 63px;
+    margin-right: 240px;
+    width: 477px;
+    height: 26px;
+    /* margin-left: 1203px; */
+
+
+}
