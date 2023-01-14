@@ -94,3 +94,52 @@ font-size: 45px;
 
 }
 /* ------------------------------------complete banner and nav ------------------------------------- */
+.features{
+    display: flex;
+    gap: 100px;
+}
+.features-text{
+    width: 537px;
+    height: 304px;
+   margin-top: 350px;
+}
+
+
+
+.image4{
+    display:grid;
+    grid-template-columns:repeat(2,0fr);
+    gap: 24px;
+    margin-left: 301px;
+    margin-top: 130px;
+}
+.image4-title{
+    ont-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+}
+
+.features-details{
+    color: #727272;
+    font-weight: 400;
+    font-size: 16px;
+}
+.yellow{
+    color: #FF900E;
+}
+.btn-explore{
+    padding:21px 24px 20px 25px ;
+    color: #FFFFFF;
+    background: #FF900E;
+    border: none;
+    width: 180px;
+    height: 64px;
+    border-radius: 8px;
+    margin-top: 32px;
+    
+
+}
+
+.quick{
+    color:#727272;
+}
