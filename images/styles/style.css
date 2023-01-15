@@ -114,7 +114,7 @@ font-size: 45px;
     margin-top: 130px;
 }
 .image4-title{
-    ont-weight: 700;
+    font-weight: 700;
     font-size: 45px;
     line-height: 53px;
 }
@@ -229,3 +229,122 @@ right: 80px;
 }
 
 /* last section-------------------------------------------------- */
+.facts-title{
+    font-weight: 700;
+    font-size: 45px;
+    color: #131313;
+    margin-left: 240px;
+    margin-bottom: 24px;
+    margin-top: 85px;
+}
+
+.facts-title-text{
+    font-weight: 400;
+    font-size: 16px; 
+    color: #727272;
+    margin-left: 240px;
+    width: 542px;
+    height: 52px;
+}
+.box-card{
+    display: flex;
+    justify-content: space-around;
+    /* margin-right: 290px; */
+    margin-left: 200px;
+    margin-top:100px ;
+    width: 1440px;
+    height: 450px;
+    text-align: center;
+    
+}
+.box-1{
+border: 1px solid #FF900E;
+border-radius: 8px;
+width: 169px;
+height: 136px;
+padding: 60px 35px 60px 35px;
+}
+.box-2{
+    border: 1px solid #FF900E;
+border-radius: 8px;
+width: 169px;
+height: 136px;
+padding: 60px 35px 60px 35px;
+}
+.box-3{
+    border: 1px solid #FF900E;
+border-radius: 8px;
+width: 169px;
+height: 136px;
+padding: 60px 35px 60px 35px;
+}
+.box-4{
+    border: 1px solid #FF900E;
+border-radius: 8px;
+width: 169px;
+height: 136px;
+padding: 60px 35px 60px 35px;
+}
+.box-card h1{
+font-weight: 600;
+font-size: 45px;
+}
+.box-card p{
+font-weight: 600;
+font-size: 20px;
+color: #727272;
+margin-top: 30px;
+}
+
+
+.sponspors h1{
+    /* font-weight: 700; */
+    font-size: 45px;
+    color: #131313;
+    text-align: center;
+    margin-bottom: 30px;
+    /* margin-right: 2300px; */
+
+    
+}
+.sponspors p{
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;
+    text-align: center;
+    width: 542px;
+    margin-left: 600px;
+
+
+
+}
+
+.sponspors-img{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 44px;
+    width: 1600px;
+    height: 100px;
+
+    
+   
+}
+ /*------------------------ footerrr------------------------- */
+
+
+ footer{
+   
+    margin-top: 130px;
+    margin-left: 240px;
+    margin-bottom: 218px;
+    text-align: center;
+    background: #FFF4E7;
+    border-radius: 8px;
+    width: 1440px;
+    height: 100px;
+ 
+    color: #424242;
+    font-weight: 400;
+    font-size: 20px;
+
+ }
